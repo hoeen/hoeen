@@ -3,7 +3,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoeen5373@gmail.com)](mailto:hoeen5373@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hoeen.github.io/)](https://hoeen.github.io/)
-
+[![Wooseok's CV](https://img.shields.io/badge/-Resume-blue)](https://hoeen.github.io/resume/)
 
 
 
