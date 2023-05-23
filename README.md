@@ -5,8 +5,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hoeen.github.io/)](https://hoeen.github.io/)
 [![Wooseok's CV](https://img.shields.io/badge/Resume-blue?style=flat-square&logo=Apache)](https://hoeen.github.io/resume/)
 
-표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-
 ### 🧑🏻‍💻 I'm interested in..
 - Data Analysis
 - Machine Learning 
@@ -15,7 +13,6 @@
 
 ### 🥊 Skills
 <!-- <div align=center> -->
-	
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF7A59.svg?&style=for-the-badge&logo=Plotly)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
@@ -24,7 +21,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)	
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 <!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
-
 <!-- </div> -->
 
  
@@ -32,7 +28,7 @@
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) -->
 
-![Wooseok's github stats](https://github-readme-stats.vercel.app/api?username=hoeen)
+<!-- ![Wooseok's github stats](https://github-readme-stats.vercel.app/api?username=hoeen) -->
 	
 	
 <!-- <div align=center>
